@@ -8,7 +8,7 @@ int main() {
         cout<<"LowerCase Character\n";
     }
     else{
-        cout<<"Invalid Character\n";
+        cout<<"UpperCase Character\n";
     }
     return 0;
 }
